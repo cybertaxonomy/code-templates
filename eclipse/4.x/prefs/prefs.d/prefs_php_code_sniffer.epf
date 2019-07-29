@@ -1,0 +1,11 @@
+file_export_version=3.0
+/instance/org.phpsrc.eclipse.pti.tools.codesniffer/pear_library=<Internal>
+/instance/org.phpsrc.eclipse.pti.tools.codesniffer/debug_print_output=true
+/instance/org.phpsrc.eclipse.pti.tools.codesniffer/php_executable=php5.3
+/instance/org.phpsrc.eclipse.pti.tools.codesniffer/default_tab_width=0
+/instance/org.phpsrc.eclipse.pti.tools.codesniffer/custom_standard_names=
+/instance/org.phpsrc.eclipse.pti.tools.codesniffer/custom_standard_paths=
+/instance/org.phpsrc.eclipse.pti.tools.codesniffer/file_extension=
+/instance/org.phpsrc.eclipse.pti.tools.codesniffer/ignore_pattern=*
+/instance/org.phpsrc.eclipse.pti.tools.codesniffer/pref_ignore_sniffs=DrupalCodingStandard.NamingConventions.ValidVariableName,DrupalCodingStandard.Files.LineLength.TooLong
+/instance/org.phpsrc.eclipse.pti.tools.codesniffer/active_standards=DrupalCodingStandard

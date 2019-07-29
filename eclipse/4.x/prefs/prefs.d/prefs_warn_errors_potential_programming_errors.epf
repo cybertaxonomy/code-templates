@@ -1,0 +1,10 @@
+file_export_version=3.0
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.noEffectAssignment=error
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.fallthroughCase=warning
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.comparingIdentical=error
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.incompleteEnumSwitch=error
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.emptyStatement=warning
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.possibleAccidentalBooleanAssignment=error
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.unusedObjectAllocation=warning
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.missingDefaultCase=warning
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.nullReference=error

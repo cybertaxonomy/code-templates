@@ -1,0 +1,8 @@
+file_export_version=3.0
+/instance/org.eclipse.ui.editors/lineNumberRuler=true
+/instance/org.eclipse.ui.editors/spacesForTabs=true
+/instance/org.eclipse.ui.editors/occurrenceIndicationColor=0,255,0
+/instance/org.eclipse.ui.editors/PHPReadOccurrenceIndicationColor=59,206,59
+/instance/org.eclipse.ui.editors/writeOccurrenceIndicationColor=0,255,0
+/instance/org.eclipse.ui.editors/javaScriptOccurrenceIndicationColor=0,255,0
+/instance/org.eclipse.ui.editors/PHPWriteOccurrenceIndicationColor=0,255,0

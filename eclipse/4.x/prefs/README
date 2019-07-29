@@ -1,0 +1,7 @@
+ This folder contains common eclipse preferences shared within the EDIT development team
+ ========================================================================================= 
+
+ *.xml filed are preferences exported from the eclipse preferences dialog, these can be imported directly
+ 
+ *.epf files are preferences files to be loaded by the Eclipse "Remote Workspace Preferences" plugin
+

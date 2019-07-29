@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookmarks>
+   <site url="http://andrei.gmxhome.de/eclipse/" selected="true" name="AnyEditTools"/>
+   <site url="http://download.eclipse.org/releases/juno" selected="true" name="Eclipse Releases Juno"/>
+   <site url="https://contrails.ch/ete/updatesite/" selected="true" name="Eclipse Workspace"/>
+   <site url="http://github.eclipsesource.com/jshint-eclipse/updates/" selected="true" name="jshint"/>
+   <site url="http://www.phpsrc.org/eclipse/pti/" selected="true" name="PHP SRC (php-codesniffer etc.)"/>
+   <site url="http://run-jetty-run.googlecode.com/svn/trunk/updatesite" selected="true" name="Run Jetty Run"/>
+   <site url="http://subclipse.tigris.org/update_1.8.x" selected="true" name="Subclipse 1.8.x Update Site"/>
+</bookmarks>
